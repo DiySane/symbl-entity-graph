@@ -26,8 +26,10 @@ export default function LoginForm() {
   const storeLocally = () => {
     console.log(token);
     console.log(conversationId);
-    localStorage.setItem("token", token);
-    localStorage.setItem("conversationId", conversationId);
+    if (typeof window != "undefined") {
+      localStorage.setItem("token", token);
+      localStorage.setItem("conversationId", conversationId);
+    }
   };
 
   return (

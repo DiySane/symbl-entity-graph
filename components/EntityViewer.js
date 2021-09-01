@@ -25,9 +25,11 @@ export default function EntityViewer(props) {
   const [mapLoaded, setMapLoaded] = useState(false);
   const [weightedMessages, setWeightedMessages] = useState([]);
 
-  const [token, setToken] = useState(localStorage.getItem("token"));
+  const [token, setToken] = useState(
+    typeof window === "undefined" ? "" : localStorage.getItem("token")
+  );
   const [conversationId, setConversationId] = useState(
-    localStorage.getItem("conversationId")
+    typeof window === "undefined" ? "" : localStorage.getItem("conversationId")
   );
   const onEntityClick = (entityText) => {
     setSelected(null);
@@ -44,9 +46,6 @@ export default function EntityViewer(props) {
     fetch(
       "https://api.symbl.ai/v1/conversations/" + conversationId + "/entities",
       {
-        // fetch("https://api.symbl.ai/v1/conversations/5623753925984256/entities", {
-        // fetch("https://api.symbl.ai/v1/conversations/5226956988612608/entities", {
-        // fetch("https://api.symbl.ai/v1/conversations/6088107897126912/entities", {
         headers: { "x-api-key": token },
       }
     )
@@ -80,7 +79,7 @@ export default function EntityViewer(props) {
 
   return (
     <>
-      <ButtonAppBar toggle={toggle} setToggle={setToggle} hasToggle={true}/>
+      <ButtonAppBar toggle={toggle} setToggle={setToggle} hasToggle={true} />
       {render()}
     </>
   );
@@ -160,6 +159,7 @@ export default function EntityViewer(props) {
     let unSortedArray = [];
     messageRefs.forEach((msgRef) => {
       unSortedArray.push({
+        id: msgRef.id,
         message: msgRef.messageText,
         weight: msgRef.entities.size,
         entities: [...msgRef.entities],
@@ -201,13 +201,14 @@ export default function EntityViewer(props) {
                 Destination Entity
               </TableCell>
             </TableHead>
-            {selected.edgeList.map((edge) => (
-              <TableRow>
+            {selected.edgeList.map((edge, key) => (
+              <TableRow key={key}>
                 <TableCell>{selected.text}</TableCell>
                 <TableCell>{edge.message}</TableCell>
                 <TableCell>
                   {edge.destEntities.map((dest) => (
                     <Button
+                      key={dest}
                       color="primary"
                       variant="outlined"
                       style={{ padding: "10px", margin: "10px" }}
@@ -240,7 +241,7 @@ export default function EntityViewer(props) {
             }}
           >
             {[...entityTypes.keys()].map((entityType) => (
-              <div>
+              <div key={entityType}>
                 <div
                   style={{
                     display: "flex",
@@ -263,6 +264,7 @@ export default function EntityViewer(props) {
                   </span>
                   {entityTypes.get(entityType).map((entity) => (
                     <Button
+                      key={entity.text}
                       color="primary"
                       variant="outlined"
                       style={{ padding: "10px", margin: "10px" }}
@@ -317,8 +319,8 @@ export default function EntityViewer(props) {
                 Entities
               </TableCell>
             </TableHead>
-            {weightedMessages.map((weightedMessage) => (
-              <TableRow>
+            {weightedMessages.map((weightedMessage, key) => (
+              <TableRow key={weightedMessage.id}>
                 <TableCell style={{ textAlign: "center" }}>
                   {weightedMessage.weight}
                 </TableCell>
@@ -328,6 +330,7 @@ export default function EntityViewer(props) {
                 <TableCell style={{ textAlign: "center" }}>
                   {[...weightedMessage.entities].map((entity) => (
                     <Button
+                      key={entity}
                       color="primary"
                       variant="outlined"
                       style={{ padding: "10px", margin: "10px" }}
