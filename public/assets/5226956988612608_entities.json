@@ -1,0 +1,1523 @@
+{
+    "entities": [
+        {
+            "type": "person",
+            "value": "john",
+            "text": "john",
+            "messageRefs": [
+                {
+                    "id": "5284255509774336",
+                    "text": "Political economist, John rapidly explores how the decline of the noble ruling classes in the Roman era could help us.",
+                    "offset": 21
+                },
+                {
+                    "id": "6587052503072768",
+                    "text": "That was John rapidly for Eon magazine about how the end of European feudalism and the decline of the Roman Empire could foreshadow the future of the West published in July, 20, 21, read by Jonathan Booth for curio.",
+                    "offset": 9
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "jonathan booth",
+            "text": "jonathan booth",
+            "messageRefs": [
+                {
+                    "id": "6527388931325952",
+                    "text": "From Eon magazine, read by Jonathan Booth for curio.",
+                    "offset": 27
+                },
+                {
+                    "id": "6587052503072768",
+                    "text": "That was John rapidly for Eon magazine about how the end of European feudalism and the decline of the Roman Empire could foreshadow the future of the West published in July, 20, 21, read by Jonathan Booth for curio.",
+                    "offset": 190
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Eon",
+            "text": "Eon",
+            "messageRefs": [
+                {
+                    "id": "6527388931325952",
+                    "text": "From Eon magazine, read by Jonathan Booth for curio.",
+                    "offset": 5
+                },
+                {
+                    "id": "6587052503072768",
+                    "text": "That was John rapidly for Eon magazine about how the end of European feudalism and the decline of the Roman Empire could foreshadow the future of the West published in July, 20, 21, read by Jonathan Booth for curio.",
+                    "offset": 26
+                }
+            ]
+        },
+        {
+            "type": "daterange",
+            "text": "2020",
+            "start": "2020-01-01",
+            "end": "2021-01-01",
+            "messageRefs": [
+                {
+                    "id": "6671528033779712",
+                    "text": "Early in 2020 after a mysterious coronavirus emerged out of China and then raced across the globe.",
+                    "offset": 9
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "China",
+            "text": "China",
+            "messageRefs": [
+                {
+                    "id": "6671528033779712",
+                    "text": "Early in 2020 after a mysterious coronavirus emerged out of China and then raced across the globe.",
+                    "offset": 60
+                },
+                {
+                    "id": "5353380256940032",
+                    "text": "Tellingly, when one contrasts the responses to the covid-19, pandemic of say China and Western countries, it seems plausible that this pandemic could hasten the relative decline.",
+                    "offset": 77
+                },
+                {
+                    "id": "5510752992493568",
+                    "text": "If not the fall of the west but given the China and the West confronted the same plague.",
+                    "offset": 42
+                },
+                {
+                    "id": "4703869700407296",
+                    "text": "In some cases by years hastening, its decline, relative to China and much of the erstwhile Global periphery.",
+                    "offset": 59
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "2020",
+            "text": "2020",
+            "messageRefs": [
+                {
+                    "id": "6671528033779712",
+                    "text": "Early in 2020 after a mysterious coronavirus emerged out of China and then raced across the globe.",
+                    "offset": 9
+                }
+            ]
+        },
+        {
+            "type": "date",
+            "value": "2021-01-01",
+            "text": "new year",
+            "messageRefs": [
+                {
+                    "id": "6154078292803584",
+                    "text": "Acquired New Year, took a screeching turn Stark images are ventilated patients in Italian Hospital.",
+                    "offset": 9
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Italian Hospital",
+            "text": "Italian Hospital",
+            "messageRefs": [
+                {
+                    "id": "6154078292803584",
+                    "text": "Acquired New Year, took a screeching turn Stark images are ventilated patients in Italian Hospital.",
+                    "offset": 82
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "West",
+            "text": "West",
+            "messageRefs": [
+                {
+                    "id": "5560039721926656",
+                    "text": "Filled our news feeds Panic, erupted across the West one.",
+                    "offset": 48
+                },
+                {
+                    "id": "5510752992493568",
+                    "text": "If not the fall of the west but given the China and the West confronted the same plague.",
+                    "offset": 56
+                },
+                {
+                    "id": "4650036077002752",
+                    "text": "All told the same exhaustion has shocked, a very different outcome, covid-19 seems to have found a vulnerability that did not exist in the West in Teen 18 and does not exist in much of the western world's former periphery.",
+                    "offset": 139
+                },
+                {
+                    "id": "6028913282121728",
+                    "text": "The West was still Rising, its peak to come only after the war when the u.s.",
+                    "offset": 4
+                },
+                {
+                    "id": "4811554328412160",
+                    "text": "In fact, the flow of capital in the world economy came from the global periphery to the West firms in New York, London Paris and other Western Cities Bank.",
+                    "offset": 88
+                },
+                {
+                    "id": "4811554328412160",
+                    "text": "In fact, the flow of capital in the world economy came from the global periphery to the West firms in New York, London Paris and other Western Cities Bank.",
+                    "offset": 135
+                },
+                {
+                    "id": "6149829764841472",
+                    "text": "At the turn of the Millennium, the West developed oecd countries.",
+                    "offset": 35
+                },
+                {
+                    "id": "6150465092845568",
+                    "text": "Rapidly Rising as the net flow of capital shifted in its favor for the first time that share has been declining, suggesting that the high-water mark reached 20 years ago, was, in fact, the peak of the West some contemporary commentators recording that the wealth of the peak Roman Empire attracted the Barbarian, invasions warned that we face as A similar fate today.",
+                    "offset": 201
+                },
+                {
+                    "id": "6587052503072768",
+                    "text": "That was John rapidly for Eon magazine about how the end of European feudalism and the decline of the Roman Empire could foreshadow the future of the West published in July, 20, 21, read by Jonathan Booth for curio.",
+                    "offset": 150
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "one",
+            "text": "one",
+            "messageRefs": [
+                {
+                    "id": "5560039721926656",
+                    "text": "Filled our news feeds Panic, erupted across the West one.",
+                    "offset": 53
+                },
+                {
+                    "id": "6557444743364608",
+                    "text": "One that took inspiration from Thomas.",
+                    "offset": 0
+                },
+                {
+                    "id": "5353380256940032",
+                    "text": "Tellingly, when one contrasts the responses to the covid-19, pandemic of say China and Western countries, it seems plausible that this pandemic could hasten the relative decline.",
+                    "offset": 16
+                },
+                {
+                    "id": "6525223630274560",
+                    "text": "But in the mid fifth century at around the time of the empires the greatest economic output, it's Reckless, expansionism multiplied, the conflict on its borders such that it could no longer concentrate its Firepower on one foe.",
+                    "offset": 220
+                },
+                {
+                    "id": "4574206592286720",
+                    "text": "Had transformed from a poor country into a rich one correction.",
+                    "offset": 48
+                },
+                {
+                    "id": "6381033256648704",
+                    "text": "One of the European Empires notionally independent, but in an economically subservient status China Latin America or struggling to resist Western assimilation, Japan.",
+                    "offset": 0
+                },
+                {
+                    "id": "6538212282466304",
+                    "text": "True invasion, was the proximate cause of one Civilizations for not the underlying cause to begin with the argument that modern immigration amounts to an exhaustion of shock is feeble at best.",
+                    "offset": 42
+                },
+                {
+                    "id": "4758827699273728",
+                    "text": "Nevertheless, in the response of markets to the Year's Event, the might be a clue to the vulnerability of the First one that covid-19 helps to expose and possibly exacerbate.",
+                    "offset": 117
+                },
+                {
+                    "id": "5252628888944640",
+                    "text": "Those two outcomes might not be unrelated to one another by inflating asset values monetary stimulus.",
+                    "offset": 45
+                },
+                {
+                    "id": "6410167462658048",
+                    "text": "A wider group than one might suppose since it includes.",
+                    "offset": 19
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "edward gibbon",
+            "text": "edward gibbon",
+            "messageRefs": [
+                {
+                    "id": "4968587627331584",
+                    "text": "We being the moderns that we are opted for what we imagine being a scientific discourse, the so-called genre of collapse ology although some Modern Scholars such as Edward Gibbon, Oswald Spengler and Arnold toynbee retained.",
+                    "offset": 165
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "oswald spengler",
+            "text": "oswald spengler",
+            "messageRefs": [
+                {
+                    "id": "4968587627331584",
+                    "text": "We being the moderns that we are opted for what we imagine being a scientific discourse, the so-called genre of collapse ology although some Modern Scholars such as Edward Gibbon, Oswald Spengler and Arnold toynbee retained.",
+                    "offset": 180
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "arnold toynbee",
+            "text": "arnold toynbee",
+            "messageRefs": [
+                {
+                    "id": "4968587627331584",
+                    "text": "We being the moderns that we are opted for what we imagine being a scientific discourse, the so-called genre of collapse ology although some Modern Scholars such as Edward Gibbon, Oswald Spengler and Arnold toynbee retained.",
+                    "offset": 200
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "-19",
+            "text": "-19",
+            "messageRefs": [
+                {
+                    "id": "5114514644140032",
+                    "text": "While embedding them in empirical ground, those who would shape our interpretation of covid-19, came from a different tradition.",
+                    "offset": 91
+                },
+                {
+                    "id": "4802782495244288",
+                    "text": "For its part, the covid-19 pandemic revived old theories about the role that disease has played in regime collapse, and we were reminded that plagues had laid low, the Roman Empire and destroyed European feudalism.",
+                    "offset": 23
+                },
+                {
+                    "id": "5665592838193152",
+                    "text": "All took a far greater toll in the western world than covid-19, yet.",
+                    "offset": 59
+                },
+                {
+                    "id": "5353380256940032",
+                    "text": "Tellingly, when one contrasts the responses to the covid-19, pandemic of say China and Western countries, it seems plausible that this pandemic could hasten the relative decline.",
+                    "offset": 56
+                },
+                {
+                    "id": "4953896733638656",
+                    "text": "Baer's consideration in light of the comparatively poor performance of Western countries in dealing with the covid-19.",
+                    "offset": 115
+                },
+                {
+                    "id": "5642624091291648",
+                    "text": "In contrast, covid-19 plunge.",
+                    "offset": 18
+                },
+                {
+                    "id": "4650036077002752",
+                    "text": "All told the same exhaustion has shocked, a very different outcome, covid-19 seems to have found a vulnerability that did not exist in the West in Teen 18 and does not exist in much of the western world's former periphery.",
+                    "offset": 73
+                },
+                {
+                    "id": "6081293436583936",
+                    "text": "When the covid-19 pandemic hit and countries went into lockdown markets crashed to keep their markets and economies are float.",
+                    "offset": 14
+                },
+                {
+                    "id": "4758827699273728",
+                    "text": "Nevertheless, in the response of markets to the Year's Event, the might be a clue to the vulnerability of the First one that covid-19 helps to expose and possibly exacerbate.",
+                    "offset": 131
+                },
+                {
+                    "id": "4823669793619968",
+                    "text": "Just to stay Rich, the massive fiscal and monetary response to the covid-19.",
+                    "offset": 72
+                },
+                {
+                    "id": "5034164127531008",
+                    "text": "That the response to the pandemic will only reinforce the long-term trend of future growth, being increasingly skewed towards the periphery covid-19 did not topple the west but it might have hobbled it in its competition with the rising economies of the global South most of which were once colonies of or subservient regimes to Western countries.",
+                    "offset": 145
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "thomas",
+            "text": "thomas",
+            "messageRefs": [
+                {
+                    "id": "6557444743364608",
+                    "text": "One that took inspiration from Thomas.",
+                    "offset": 31
+                }
+            ]
+        },
+        {
+            "type": "daterange",
+            "text": "1798",
+            "start": "1798-01-01",
+            "end": "1799-01-01",
+            "messageRefs": [
+                {
+                    "id": "5690977202208768",
+                    "text": "Malthus's 1798 thesis about the natural consequences of human development Neo malthusians, credited environmental feedback loops not moral failings for regime collapse in the 1960s and 70s.",
+                    "offset": 11
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "malthus",
+            "text": "malthus",
+            "messageRefs": [
+                {
+                    "id": "5690977202208768",
+                    "text": "Malthus's 1798 thesis about the natural consequences of human development Neo malthusians, credited environmental feedback loops not moral failings for regime collapse in the 1960s and 70s.",
+                    "offset": 0
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "1798",
+            "text": "1798",
+            "messageRefs": [
+                {
+                    "id": "5690977202208768",
+                    "text": "Malthus's 1798 thesis about the natural consequences of human development Neo malthusians, credited environmental feedback loops not moral failings for regime collapse in the 1960s and 70s.",
+                    "offset": 11
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "paul",
+            "text": "paul",
+            "messageRefs": [
+                {
+                    "id": "5130330156564480",
+                    "text": "Works by Paul are leash and Donella Meadows.",
+                    "offset": 9
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "donella meadows",
+            "text": "donella meadows",
+            "messageRefs": [
+                {
+                    "id": "5130330156564480",
+                    "text": "Works by Paul are leash and Donella Meadows.",
+                    "offset": 28
+                }
+            ]
+        },
+        {
+            "type": "datetime",
+            "value": "recently",
+            "text": "recently",
+            "messageRefs": [
+                {
+                    "id": "5260801867776000",
+                    "text": "Eyes leading to among other things, widespread food shortages, more recently, Jared Diamond wrote of the role that environmental depletion and diseases played in the fall of civilizations and his theory that the collapse of Easter Island resulted from over exploitation of the natural environment has enjoyed particular resonance.",
+                    "offset": 68
+                }
+            ]
+        },
+        {
+            "type": "daterange",
+            "text": "the fall",
+            "messageRefs": [
+                {
+                    "id": "5260801867776000",
+                    "text": "Eyes leading to among other things, widespread food shortages, more recently, Jared Diamond wrote of the role that environmental depletion and diseases played in the fall of civilizations and his theory that the collapse of Easter Island resulted from over exploitation of the natural environment has enjoyed particular resonance.",
+                    "offset": 162
+                },
+                {
+                    "id": "5510752992493568",
+                    "text": "If not the fall of the west but given the China and the West confronted the same plague.",
+                    "offset": 7
+                },
+                {
+                    "id": "6716999557185536",
+                    "text": "As it happens, the thesis that an exotic — shock must encounter a vulnerability to bring down the regime happens to fit the case of the Roman Empire recent historiography attributes that Empires fall not to plagues, but to the hunnish, invasions importantly, though the sudden incursion of the Huns didn't itself signal the Roman Empire's collapse.",
+                    "offset": 193
+                }
+            ]
+        },
+        {
+            "type": "date",
+            "value": "not resolved",
+            "text": "easter",
+            "messageRefs": [
+                {
+                    "id": "5260801867776000",
+                    "text": "Eyes leading to among other things, widespread food shortages, more recently, Jared Diamond wrote of the role that environmental depletion and diseases played in the fall of civilizations and his theory that the collapse of Easter Island resulted from over exploitation of the natural environment has enjoyed particular resonance.",
+                    "offset": 224
+                },
+                {
+                    "id": "6373031707410432",
+                    "text": "We can start just with the cases, mentioned above the alarmist warnings in the 1970s about overpopulation soon gave way not too concerned about food shortages, but about the problems caused by global overproduction of food, which was driving down, food, prices and accelerating the urbanization of the developing World regarding diamonds book about Easter Island, pretty much from the get-go.",
+                    "offset": 349
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "jared diamond",
+            "text": "jared diamond",
+            "messageRefs": [
+                {
+                    "id": "5260801867776000",
+                    "text": "Eyes leading to among other things, widespread food shortages, more recently, Jared Diamond wrote of the role that environmental depletion and diseases played in the fall of civilizations and his theory that the collapse of Easter Island resulted from over exploitation of the natural environment has enjoyed particular resonance.",
+                    "offset": 78
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Easter Island",
+            "text": "Easter Island",
+            "messageRefs": [
+                {
+                    "id": "5260801867776000",
+                    "text": "Eyes leading to among other things, widespread food shortages, more recently, Jared Diamond wrote of the role that environmental depletion and diseases played in the fall of civilizations and his theory that the collapse of Easter Island resulted from over exploitation of the natural environment has enjoyed particular resonance.",
+                    "offset": 224
+                },
+                {
+                    "id": "6373031707410432",
+                    "text": "We can start just with the cases, mentioned above the alarmist warnings in the 1970s about overpopulation soon gave way not too concerned about food shortages, but about the problems caused by global overproduction of food, which was driving down, food, prices and accelerating the urbanization of the developing World regarding diamonds book about Easter Island, pretty much from the get-go.",
+                    "offset": 349
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "World",
+            "text": "World",
+            "messageRefs": [
+                {
+                    "id": "6373031707410432",
+                    "text": "We can start just with the cases, mentioned above the alarmist warnings in the 1970s about overpopulation soon gave way not too concerned about food shortages, but about the problems caused by global overproduction of food, which was driving down, food, prices and accelerating the urbanization of the developing World regarding diamonds book about Easter Island, pretty much from the get-go.",
+                    "offset": 313
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Europe",
+            "text": "Europe",
+            "messageRefs": [
+                {
+                    "id": "6390280589672448",
+                    "text": "Many historians of the Roman Empire doubt that the plague played a part in its downfall, as for the black death in much of Europe.",
+                    "offset": 123
+                },
+                {
+                    "id": "4998335510347776",
+                    "text": "Let us return to the black death of 14th century Europe, the thesis that the plague ended feudalism starts with the fact that Europe's labor Supply dropped suddenly and sharply this.",
+                    "offset": 49
+                },
+                {
+                    "id": "4998335510347776",
+                    "text": "Let us return to the black death of 14th century Europe, the thesis that the plague ended feudalism starts with the fact that Europe's labor Supply dropped suddenly and sharply this.",
+                    "offset": 126
+                },
+                {
+                    "id": "5381734993494016",
+                    "text": "Their relations to the nobility, but as mentioned in much of Europe and particularly in the East, the now She responded by then, reinforcing feudal bonds.",
+                    "offset": 61
+                },
+                {
+                    "id": "4965656823857152",
+                    "text": "That was not present in other parts of Europe.",
+                    "offset": 39
+                },
+                {
+                    "id": "5633762231582720",
+                    "text": "Most of the world outside Europe and its then white dominions, Canada, Australia, New Zealand.",
+                    "offset": 26
+                },
+                {
+                    "id": "6617391950725120",
+                    "text": "Today, resemble, the Invaders of Rome in that they he says have coveted Europe's wealth, without renouncing their ancestral Faith.",
+                    "offset": 72
+                },
+                {
+                    "id": "5347917058539520",
+                    "text": "As was the case for Europe's medieval nobility the coronavirus, pandemic, ravaged, Western people and societies, but as has been much discussed, the performance of stock markets, has continued to be great for owners.",
+                    "offset": 20
+                }
+            ]
+        },
+        {
+            "type": "daterange",
+            "text": "1918",
+            "start": "1918-01-01",
+            "end": "1919-01-01",
+            "messageRefs": [
+                {
+                    "id": "6487796077297664",
+                    "text": "It didn't end feudalism, but actually reinforced it, more generally measured by the scale of the loss in human life, as a proportion of the total population in the affected areas, 19th century, epidemics of Cholera and the flu, pandemic of 1918.",
+                    "offset": 241
+                },
+                {
+                    "id": "5147728565764096",
+                    "text": "Pandemic, even more importantly, it could help us chart the likely Some geopolitical impacts of the pandemic while far more devastating in human lives, the 1918 flu.",
+                    "offset": 156
+                },
+                {
+                    "id": "5849430256254976",
+                    "text": "The economic Firepower of the western world was shown to be seemingly Limitless when contrasted with the relatively modest expense incurred by governments in response to the 1918, flu pandemic, observers noted, how much more Western countries could now do than before richer than ever?",
+                    "offset": 174
+                },
+                {
+                    "id": "4754297481854976",
+                    "text": "The modern west shows a similar Arc at the time of the 1918 pandemic.",
+                    "offset": 55
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "1918",
+            "text": "1918",
+            "messageRefs": [
+                {
+                    "id": "6487796077297664",
+                    "text": "It didn't end feudalism, but actually reinforced it, more generally measured by the scale of the loss in human life, as a proportion of the total population in the affected areas, 19th century, epidemics of Cholera and the flu, pandemic of 1918.",
+                    "offset": 241
+                },
+                {
+                    "id": "5147728565764096",
+                    "text": "Pandemic, even more importantly, it could help us chart the likely Some geopolitical impacts of the pandemic while far more devastating in human lives, the 1918 flu.",
+                    "offset": 156
+                },
+                {
+                    "id": "5849430256254976",
+                    "text": "The economic Firepower of the western world was shown to be seemingly Limitless when contrasted with the relatively modest expense incurred by governments in response to the 1918, flu pandemic, observers noted, how much more Western countries could now do than before richer than ever?",
+                    "offset": 174
+                },
+                {
+                    "id": "4754297481854976",
+                    "text": "The modern west shows a similar Arc at the time of the 1918 pandemic.",
+                    "offset": 55
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Empire",
+            "text": "Empire",
+            "messageRefs": [
+                {
+                    "id": "4844924747907072",
+                    "text": "All Fanning out across the trade routes of Empire.",
+                    "offset": 43
+                }
+            ]
+        },
+        {
+            "type": "datetime",
+            "value": "now",
+            "text": "now",
+            "messageRefs": [
+                {
+                    "id": "5381734993494016",
+                    "text": "Their relations to the nobility, but as mentioned in much of Europe and particularly in the East, the now She responded by then, reinforcing feudal bonds.",
+                    "offset": 102
+                },
+                {
+                    "id": "5849430256254976",
+                    "text": "The economic Firepower of the western world was shown to be seemingly Limitless when contrasted with the relatively modest expense incurred by governments in response to the 1918, flu pandemic, observers noted, how much more Western countries could now do than before richer than ever?",
+                    "offset": 249
+                },
+                {
+                    "id": "4598784198705152",
+                    "text": "Now for much of the population income depends on wealth.",
+                    "offset": 0
+                },
+                {
+                    "id": "6215912433647616",
+                    "text": "Now is arguably the difference between, taking out a loan to add a sun deck or swimming pool to the house and taking out a loan to repair flood damage.",
+                    "offset": 0
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "East",
+            "text": "East",
+            "messageRefs": [
+                {
+                    "id": "5381734993494016",
+                    "text": "Their relations to the nobility, but as mentioned in much of Europe and particularly in the East, the now She responded by then, reinforcing feudal bonds.",
+                    "offset": 92
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "England",
+            "text": "England",
+            "messageRefs": [
+                {
+                    "id": "6256230063407104",
+                    "text": "However, in other places, the legal system permitted, the renegotiation of the relationship between Lords and producers, for example, in England, the evolution of common law had created a framework that made it possible for land tenure to change from feudal to market-based relations.",
+                    "offset": 137
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Lords",
+            "text": "Lords",
+            "messageRefs": [
+                {
+                    "id": "6256230063407104",
+                    "text": "However, in other places, the legal system permitted, the renegotiation of the relationship between Lords and producers, for example, in England, the evolution of common law had created a framework that made it possible for land tenure to change from feudal to market-based relations.",
+                    "offset": 100
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Frontier Invaders",
+            "text": "Frontier Invaders",
+            "messageRefs": [
+                {
+                    "id": "5637323933876224",
+                    "text": "The Romans dealt with the Huns as they had, always done with Frontier Invaders, using a combination of repression and negotiation to neutralize the threat.",
+                    "offset": 61
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "gibbon",
+            "text": "gibbon",
+            "messageRefs": [
+                {
+                    "id": "4671970441428992",
+                    "text": "Not result from Rome's, internal weakening as the Gibbon thesis had maintained.",
+                    "offset": 51
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Rome",
+            "text": "Rome",
+            "messageRefs": [
+                {
+                    "id": "4671970441428992",
+                    "text": "Not result from Rome's, internal weakening as the Gibbon thesis had maintained.",
+                    "offset": 16
+                },
+                {
+                    "id": "6253927155630080",
+                    "text": "Rome was able to concentrate military forces on comparatively disorganized and weak opponents, and coupled with diplomatic measures such as subsidies there by neutralize the threat.",
+                    "offset": 0
+                },
+                {
+                    "id": "6617391950725120",
+                    "text": "Today, resemble, the Invaders of Rome in that they he says have coveted Europe's wealth, without renouncing their ancestral Faith.",
+                    "offset": 33
+                },
+                {
+                    "id": "4834216857567232",
+                    "text": "The invasions the top of Rome were large-scale military assaults organized by external actors today.",
+                    "offset": 25
+                },
+                {
+                    "id": "5089944042209280",
+                    "text": "Those assets as happened to Rome for all the talk of fear-mongering and xenophobia.",
+                    "offset": 28
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "baer",
+            "text": "baer",
+            "messageRefs": [
+                {
+                    "id": "4953896733638656",
+                    "text": "Baer's consideration in light of the comparatively poor performance of Western countries in dealing with the covid-19.",
+                    "offset": 0
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Western Societies",
+            "text": "Western Societies",
+            "messageRefs": [
+                {
+                    "id": "6182897791795200",
+                    "text": "Pandemic did little economic harm to Western Societies.",
+                    "offset": 37
+                }
+            ]
+        },
+        {
+            "type": "date",
+            "value": "2021-08-30",
+            "text": "today",
+            "messageRefs": [
+                {
+                    "id": "6318371294412800",
+                    "text": "Today's West into an economic slump that will set back growth.",
+                    "offset": 0
+                },
+                {
+                    "id": "5797870348271616",
+                    "text": "Empires also entail ongoing costs, the Richer and Empire becomes the more it must spend to preserve that wealth as the Roman Empire expanded into virgin land, it built up, the massive estate that enabled it to accumulate its endowment of capital much of which survives to this day.",
+                    "offset": 272
+                },
+                {
+                    "id": "6150465092845568",
+                    "text": "Rapidly Rising as the net flow of capital shifted in its favor for the first time that share has been declining, suggesting that the high-water mark reached 20 years ago, was, in fact, the peak of the West some contemporary commentators recording that the wealth of the peak Roman Empire attracted the Barbarian, invasions warned that we face as A similar fate today.",
+                    "offset": 361
+                },
+                {
+                    "id": "6617391950725120",
+                    "text": "Today, resemble, the Invaders of Rome in that they he says have coveted Europe's wealth, without renouncing their ancestral Faith.",
+                    "offset": 0
+                },
+                {
+                    "id": "4834216857567232",
+                    "text": "The invasions the top of Rome were large-scale military assaults organized by external actors today.",
+                    "offset": 94
+                },
+                {
+                    "id": "5617306701922304",
+                    "text": "Immigrant more importantly, the invasions of antiquity seized Capital, especially when the Invaders obtained land and any loot, they could find today's immigration.",
+                    "offset": 144
+                },
+                {
+                    "id": "5315502034386944",
+                    "text": "The location of that vulnerability today is entirely different though.",
+                    "offset": 35
+                },
+                {
+                    "id": "5937454235254784",
+                    "text": "And by the fact that the retired share of the population tends to be the most engaged in politics, illustrating Machiavelli's rule that today's losers constitute a more formidable political constituency than tomorrow's winners.",
+                    "offset": 137
+                },
+                {
+                    "id": "5846155209474048",
+                    "text": "Consider the difference between Market crashes today and those of history.",
+                    "offset": 47
+                },
+                {
+                    "id": "5437893402165248",
+                    "text": "Today.",
+                    "offset": 0
+                },
+                {
+                    "id": "6215843949051904",
+                    "text": "The wealth of today's Western economy lies in financial markets and is owned mostly by the top tenth of society.",
+                    "offset": 14
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Global",
+            "text": "Global",
+            "messageRefs": [
+                {
+                    "id": "4703869700407296",
+                    "text": "In some cases by years hastening, its decline, relative to China and much of the erstwhile Global periphery.",
+                    "offset": 91
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "18",
+            "text": "18",
+            "messageRefs": [
+                {
+                    "id": "4650036077002752",
+                    "text": "All told the same exhaustion has shocked, a very different outcome, covid-19 seems to have found a vulnerability that did not exist in the West in Teen 18 and does not exist in much of the western world's former periphery.",
+                    "offset": 152
+                }
+            ]
+        },
+        {
+            "type": "currency",
+            "value": "dollars",
+            "text": "dollars",
+            "messageRefs": [
+                {
+                    "id": "5224003393290240",
+                    "text": "Western governments, began raining cash borrowing trillions of dollars and adding an average fifth of gross domestic product.",
+                    "offset": 63
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Heights",
+            "text": "Heights",
+            "messageRefs": [
+                {
+                    "id": "5456239522742272",
+                    "text": "It's meanwhile, scaled unprecedented Heights.",
+                    "offset": 38
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Island",
+            "text": "Island",
+            "messageRefs": [
+                {
+                    "id": "5430114117484544",
+                    "text": "I once had a conversation with an Irish colleague in which I marveled at how in the space of little more than a generation Island.",
+                    "offset": 123
+                }
+            ]
+        },
+        {
+            "type": "duration",
+            "value": "31536000",
+            "text": "one year",
+            "messageRefs": [
+                {
+                    "id": "4640997586763776",
+                    "text": "It supposes for example, that one year you earned 1 million dollars.",
+                    "offset": 30
+                }
+            ]
+        },
+        {
+            "type": "currency",
+            "value": "1 million dollars",
+            "text": "1 million dollars",
+            "messageRefs": [
+                {
+                    "id": "4640997586763776",
+                    "text": "It supposes for example, that one year you earned 1 million dollars.",
+                    "offset": 50
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "1 million",
+            "text": "1 million",
+            "messageRefs": [
+                {
+                    "id": "4640997586763776",
+                    "text": "It supposes for example, that one year you earned 1 million dollars.",
+                    "offset": 50
+                }
+            ]
+        },
+        {
+            "type": "daterange",
+            "text": "next year",
+            "start": "2022-01-01",
+            "end": "2023-01-01",
+            "messageRefs": [
+                {
+                    "id": "5102642884771840",
+                    "text": "That if, in the next year, you lost your job or business.",
+                    "offset": 16
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "zero",
+            "text": "zero",
+            "messageRefs": [
+                {
+                    "id": "4784967105118208",
+                    "text": "You'd be back down to zero.",
+                    "offset": 23
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Hard Times",
+            "text": "Hard Times",
+            "messageRefs": [
+                {
+                    "id": "6514142312660992",
+                    "text": "So instead, you could invest, it's a by building a house that way you'd have Capital, you could live off if Hard Times return, but you'd also have incurred.",
+                    "offset": 110
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "administrative Technologies",
+            "text": "administrative Technologies",
+            "messageRefs": [
+                {
+                    "id": "6295418989182976",
+                    "text": "However, as the empire grew richer, not only did it make more enemies, but those enemies had the capacity to more effectively withstand room and assaults because they have been increasingly exposed to And Military and administrative Technologies and had accumulated wealth from Trading.",
+                    "offset": 218
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Imperial Frontier",
+            "text": "Imperial Frontier",
+            "messageRefs": [
+                {
+                    "id": "6136254849613824",
+                    "text": "Across the Imperial Frontier, the vindolanda tablets reveal.",
+                    "offset": 11
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Garrison",
+            "text": "Garrison",
+            "messageRefs": [
+                {
+                    "id": "5587511171612672",
+                    "text": "Just, how much of a frontier Garrison's food was sourced from across the frontier?",
+                    "offset": 29
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Australia",
+            "text": "Australia",
+            "messageRefs": [
+                {
+                    "id": "5633762231582720",
+                    "text": "Most of the world outside Europe and its then white dominions, Canada, Australia, New Zealand.",
+                    "offset": 71
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Canada",
+            "text": "Canada",
+            "messageRefs": [
+                {
+                    "id": "5633762231582720",
+                    "text": "Most of the world outside Europe and its then white dominions, Canada, Australia, New Zealand.",
+                    "offset": 63
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "New Zealand",
+            "text": "New Zealand",
+            "messageRefs": [
+                {
+                    "id": "5633762231582720",
+                    "text": "Most of the world outside Europe and its then white dominions, Canada, Australia, New Zealand.",
+                    "offset": 82
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "United State",
+            "text": "United State",
+            "messageRefs": [
+                {
+                    "id": "5910867011960832",
+                    "text": "And the former colonies of the United State were either colonies.",
+                    "offset": 31
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Japan",
+            "text": "Japan",
+            "messageRefs": [
+                {
+                    "id": "6381033256648704",
+                    "text": "One of the European Empires notionally independent, but in an economically subservient status China Latin America or struggling to resist Western assimilation, Japan.",
+                    "offset": 160
+                },
+                {
+                    "id": "4907369008988160",
+                    "text": "Western countries will lock in a Japan.",
+                    "offset": 33
+                },
+                {
+                    "id": "4683297243267072",
+                    "text": "If equation of the economy, A syndrome that first emerged after Japan's, 1989 crash characterized by chronic anemic economic growth in the global, periphery debt-fueled investment, tends to increase output and productivity more than is the case.",
+                    "offset": 64
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "China Latin America",
+            "text": "China Latin America",
+            "messageRefs": [
+                {
+                    "id": "6381033256648704",
+                    "text": "One of the European Empires notionally independent, but in an economically subservient status China Latin America or struggling to resist Western assimilation, Japan.",
+                    "offset": 94
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "u.s",
+            "text": "u.s",
+            "messageRefs": [
+                {
+                    "id": "6028913282121728",
+                    "text": "The West was still Rising, its peak to come only after the war when the u.s.",
+                    "offset": 72
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Institutions NATO",
+            "text": "Institutions NATO",
+            "messageRefs": [
+                {
+                    "id": "6687185370611712",
+                    "text": "Used a set of Institutions NATO, the World Bank, and international monetary fund.",
+                    "offset": 14
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "World Bank",
+            "text": "World Bank",
+            "messageRefs": [
+                {
+                    "id": "6687185370611712",
+                    "text": "Used a set of Institutions NATO, the World Bank, and international monetary fund.",
+                    "offset": 37
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "Roman Empire",
+            "text": "Roman Empire",
+            "messageRefs": [
+                {
+                    "id": "5078033829462016",
+                    "text": "The United Nations to effectively unify, Western countries into a confederal Empire, a model, not unlike that used in the late Roman Empire.",
+                    "offset": 127
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "United Nations",
+            "text": "United Nations",
+            "messageRefs": [
+                {
+                    "id": "5078033829462016",
+                    "text": "The United Nations to effectively unify, Western countries into a confederal Empire, a model, not unlike that used in the late Roman Empire.",
+                    "offset": 4
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "London Paris",
+            "text": "London Paris",
+            "messageRefs": [
+                {
+                    "id": "4811554328412160",
+                    "text": "In fact, the flow of capital in the world economy came from the global periphery to the West firms in New York, London Paris and other Western Cities Bank.",
+                    "offset": 112
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "New York",
+            "text": "New York",
+            "messageRefs": [
+                {
+                    "id": "4811554328412160",
+                    "text": "In fact, the flow of capital in the world economy came from the global periphery to the West firms in New York, London Paris and other Western Cities Bank.",
+                    "offset": 102
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Western Cities Bank",
+            "text": "Western Cities Bank",
+            "messageRefs": [
+                {
+                    "id": "4811554328412160",
+                    "text": "In fact, the flow of capital in the world economy came from the global periphery to the West firms in New York, London Paris and other Western Cities Bank.",
+                    "offset": 135
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "four-fifths",
+            "text": "four-fifths",
+            "messageRefs": [
+                {
+                    "id": "5888596968996864",
+                    "text": "Accounted for four-fifths of global economic output since then with the erstwhile, periphery of the global economy.",
+                    "offset": 14
+                }
+            ]
+        },
+        {
+            "type": "date",
+            "value": "2001-08-30",
+            "text": "20 years ago",
+            "messageRefs": [
+                {
+                    "id": "6150465092845568",
+                    "text": "Rapidly Rising as the net flow of capital shifted in its favor for the first time that share has been declining, suggesting that the high-water mark reached 20 years ago, was, in fact, the peak of the West some contemporary commentators recording that the wealth of the peak Roman Empire attracted the Barbarian, invasions warned that we face as A similar fate today.",
+                    "offset": 157
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "20",
+            "text": "20",
+            "messageRefs": [
+                {
+                    "id": "6150465092845568",
+                    "text": "Rapidly Rising as the net flow of capital shifted in its favor for the first time that share has been declining, suggesting that the high-water mark reached 20 years ago, was, in fact, the peak of the West some contemporary commentators recording that the wealth of the peak Roman Empire attracted the Barbarian, invasions warned that we face as A similar fate today.",
+                    "offset": 157
+                },
+                {
+                    "id": "6587052503072768",
+                    "text": "That was John rapidly for Eon magazine about how the end of European feudalism and the decline of the Roman Empire could foreshadow the future of the West published in July, 20, 21, read by Jonathan Booth for curio.",
+                    "offset": 174
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "niall ferguson",
+            "text": "niall ferguson",
+            "messageRefs": [
+                {
+                    "id": "6738973188685824",
+                    "text": "If we don't act urgently spotting the fo among immigrants from the global periphery right-wing politicians who want to close the borders, find support from Scholars such as Niall Ferguson who in accounting for islamist terrorism in Western countries has written that immigrants.",
+                    "offset": 174
+                }
+            ]
+        },
+        {
+            "type": "duration",
+            "value": "86400",
+            "text": "a day",
+            "messageRefs": [
+                {
+                    "id": "5700106499129344",
+                    "text": "If you doubt how extensive that states control is spend a day with an undocumented.",
+                    "offset": 56
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Western Capital",
+            "text": "Western Capital",
+            "messageRefs": [
+                {
+                    "id": "5521137283891200",
+                    "text": "Actually bolsters Western Capital, plugging the labor shortages, that are emerging amid aging populations.",
+                    "offset": 18
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "a fifth",
+            "text": "a fifth",
+            "messageRefs": [
+                {
+                    "id": "5456692943781888",
+                    "text": "Which in Western societies, average is around a fifth, since a drop in wealth entails, a loss of income for wealth holders, that gives the state.",
+                    "offset": 46
+                }
+            ]
+        },
+        {
+            "type": "date",
+            "value": "2021-08-31",
+            "text": "tomorrow",
+            "messageRefs": [
+                {
+                    "id": "5937454235254784",
+                    "text": "And by the fact that the retired share of the population tends to be the most engaged in politics, illustrating Machiavelli's rule that today's losers constitute a more formidable political constituency than tomorrow's winners.",
+                    "offset": 210
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "ferguson",
+            "text": "ferguson",
+            "messageRefs": [
+                {
+                    "id": "6653798442336256",
+                    "text": "We would have to be facing something like organized raids by undocumented immigrants hacking into Share Registries and appropriating the assets of Pension funds for Ferguson's analogy, to be remotely apt, nor for that matter.",
+                    "offset": 165
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Share Registries",
+            "text": "Share Registries",
+            "messageRefs": [
+                {
+                    "id": "6653798442336256",
+                    "text": "We would have to be facing something like organized raids by undocumented immigrants hacking into Share Registries and appropriating the assets of Pension funds for Ferguson's analogy, to be remotely apt, nor for that matter.",
+                    "offset": 98
+                }
+            ]
+        },
+        {
+            "type": "daterange",
+            "text": "the year",
+            "start": "2021-01-01",
+            "end": "2022-01-01",
+            "messageRefs": [
+                {
+                    "id": "4758827699273728",
+                    "text": "Nevertheless, in the response of markets to the Year's Event, the might be a clue to the vulnerability of the First one that covid-19 helps to expose and possibly exacerbate.",
+                    "offset": 44
+                }
+            ]
+        },
+        {
+            "type": "daterange",
+            "text": "1929",
+            "start": "1929-01-01",
+            "end": "1930-01-01",
+            "messageRefs": [
+                {
+                    "id": "4523425944043520",
+                    "text": "When in 1929 the stock market collapsed, the Great Depression followed.",
+                    "offset": 8
+                },
+                {
+                    "id": "5867784899657728",
+                    "text": "It had reached in 1929.",
+                    "offset": 18
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "1929",
+            "text": "1929",
+            "messageRefs": [
+                {
+                    "id": "4523425944043520",
+                    "text": "When in 1929 the stock market collapsed, the Great Depression followed.",
+                    "offset": 8
+                },
+                {
+                    "id": "5867784899657728",
+                    "text": "It had reached in 1929.",
+                    "offset": 18
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "john maynard keynes",
+            "text": "john maynard keynes",
+            "messageRefs": [
+                {
+                    "id": "5702598276415488",
+                    "text": "Then after the massive government wartime spending that John Maynard Keynes himself said was the first major successful experiment with fiscal stimulus.",
+                    "offset": 56
+                }
+            ]
+        },
+        {
+            "type": "daterange",
+            "text": "past 30 years",
+            "start": "1991-08-30",
+            "end": "2021-08-30",
+            "messageRefs": [
+                {
+                    "id": "5086375897464832",
+                    "text": "In contrast, over the past 30 years or so.",
+                    "offset": 22
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "30",
+            "text": "30",
+            "messageRefs": [
+                {
+                    "id": "5086375897464832",
+                    "text": "In contrast, over the past 30 years or so.",
+                    "offset": 27
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Banks",
+            "text": "Banks",
+            "messageRefs": [
+                {
+                    "id": "6214586094059520",
+                    "text": "Less at protecting incomes than at preserving asset values by, for example, bailing out Banks, or providing tax breaks for property purchases.",
+                    "offset": 88
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "two",
+            "text": "two",
+            "messageRefs": [
+                {
+                    "id": "5252628888944640",
+                    "text": "Those two outcomes might not be unrelated to one another by inflating asset values monetary stimulus.",
+                    "offset": 6
+                }
+            ]
+        },
+        {
+            "type": "person",
+            "value": "rich",
+            "text": "rich",
+            "messageRefs": [
+                {
+                    "id": "4823669793619968",
+                    "text": "Just to stay Rich, the massive fiscal and monetary response to the covid-19.",
+                    "offset": 13
+                }
+            ]
+        },
+        {
+            "type": "currency",
+            "value": "17 trillion dollars",
+            "text": "17 trillion dollars",
+            "messageRefs": [
+                {
+                    "id": "5631404160319488",
+                    "text": "When Western economies were forced into lockdown their governments borrowed, some 17 trillion dollars in order to keep businesses and consumers, afloat, and to shore up asset values.",
+                    "offset": 82
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "17 trillion",
+            "text": "17 trillion",
+            "messageRefs": [
+                {
+                    "id": "5631404160319488",
+                    "text": "When Western economies were forced into lockdown their governments borrowed, some 17 trillion dollars in order to keep businesses and consumers, afloat, and to shore up asset values.",
+                    "offset": 82
+                }
+            ]
+        },
+        {
+            "type": "daterange",
+            "text": "1989",
+            "start": "1989-01-01",
+            "end": "1990-01-01",
+            "messageRefs": [
+                {
+                    "id": "4683297243267072",
+                    "text": "If equation of the economy, A syndrome that first emerged after Japan's, 1989 crash characterized by chronic anemic economic growth in the global, periphery debt-fueled investment, tends to increase output and productivity more than is the case.",
+                    "offset": 74
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "1989",
+            "text": "1989",
+            "messageRefs": [
+                {
+                    "id": "4683297243267072",
+                    "text": "If equation of the economy, A syndrome that first emerged after Japan's, 1989 crash characterized by chronic anemic economic growth in the global, periphery debt-fueled investment, tends to increase output and productivity more than is the case.",
+                    "offset": 74
+                }
+            ]
+        },
+        {
+            "type": "location",
+            "value": "South",
+            "text": "South",
+            "messageRefs": [
+                {
+                    "id": "5034164127531008",
+                    "text": "That the response to the pandemic will only reinforce the long-term trend of future growth, being increasingly skewed towards the periphery covid-19 did not topple the west but it might have hobbled it in its competition with the rising economies of the global South most of which were once colonies of or subservient regimes to Western countries.",
+                    "offset": 261
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "1",
+            "text": "1",
+            "messageRefs": [
+                {
+                    "id": "5295469937819648",
+                    "text": "That belonged to the global 1%.",
+                    "offset": 28
+                }
+            ]
+        },
+        {
+            "type": "organization",
+            "value": "Society",
+            "text": "Society",
+            "messageRefs": [
+                {
+                    "id": "6378528795787264",
+                    "text": "Although it faces, no threat from Invasion, the cost to Society of preserving it in its current state might be getting as onerous as that of the late Roman Empire.",
+                    "offset": 56
+                }
+            ]
+        },
+        {
+            "type": "date",
+            "value": "2021-07-20",
+            "text": "july, 20, 21",
+            "messageRefs": [
+                {
+                    "id": "6587052503072768",
+                    "text": "That was John rapidly for Eon magazine about how the end of European feudalism and the decline of the Roman Empire could foreshadow the future of the West published in July, 20, 21, read by Jonathan Booth for curio.",
+                    "offset": 168
+                }
+            ]
+        },
+        {
+            "type": "number",
+            "value": "21",
+            "text": "21",
+            "messageRefs": [
+                {
+                    "id": "6587052503072768",
+                    "text": "That was John rapidly for Eon magazine about how the end of European feudalism and the decline of the Roman Empire could foreshadow the future of the West published in July, 20, 21, read by Jonathan Booth for curio.",
+                    "offset": 178
+                }
+            ]
+        }
+    ]
+}
